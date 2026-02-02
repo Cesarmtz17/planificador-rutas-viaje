@@ -1,0 +1,23 @@
+# Compiled class files
+*.class
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+target/
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
